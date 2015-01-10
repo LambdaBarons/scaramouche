@@ -1,0 +1,2 @@
+# scaramouche
+Minimalist ebook manager.
